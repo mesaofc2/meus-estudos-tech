@@ -1,0 +1,9 @@
+To pensando em fazer um app para todas as academias, respondendo as reclamações das músicas ruins.
+Se alguém roubar essa ideia pelo menos me marca no insta: @vInIcIus661
+
+Ideia:
+O app conecta ao spotify ou ao youtube onde ele mostra as músicas da fila
+Os usuários podem adicionar as músicas para fila 
+Se tiver um grande voto negativo para alguma música de algum usuário, punição será aplicada
+
+obs: agr falando aq parece meio estupido a ideia mas vou tentar formular melhor ela.
