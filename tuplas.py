@@ -1,0 +1,1 @@
+#Literalmente igual as listas só q não pode ser alterada
